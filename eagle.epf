@@ -1,0 +1,43 @@
+[Eagle]
+Version="06 04 00"
+Platform="Windows"
+Serial="7001B87C4A-LSR-WLM-5CP"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Tools/Eagle/lbr/AMD.lbr"
+UsedLibrary="C:/Tools/Eagle/lbr/AnalogDevices.lbr"
+UsedLibrary="C:/Tools/Eagle/lbr/Atmel.lbr"
+UsedLibrary="C:/Tools/Eagle/lbr/Cypress.lbr"
+UsedLibrary="C:/Tools/Eagle/lbr/Digilent.lbr"
+UsedLibrary="C:/Tools/Eagle/lbr/Discrete.lbr"
+UsedLibrary="C:/Tools/Eagle/lbr/Disp.lbr"
+UsedLibrary="C:/Tools/Eagle/lbr/Doc.lbr"
+UsedLibrary="C:/Tools/Eagle/lbr/IC.lbr"
+UsedLibrary="C:/Tools/Eagle/lbr/Intel.lbr"
+UsedLibrary="C:/Tools/Eagle/lbr/Logo.lbr"
+UsedLibrary="C:/Tools/Eagle/lbr/Mechanical.lbr"
+UsedLibrary="C:/Tools/Eagle/lbr/Memory.lbr"
+UsedLibrary="C:/Tools/Eagle/lbr/Microchip.lbr"
+UsedLibrary="C:/Tools/Eagle/lbr/Misc.lbr"
+UsedLibrary="C:/Tools/Eagle/lbr/Motorola.lbr"
+UsedLibrary="C:/Tools/Eagle/lbr/NatSemi.lbr"
+UsedLibrary="C:/Tools/Eagle/lbr/TI.lbr"
+UsedLibrary="C:/Tools/Eagle/lbr/Ubicom.lbr"
+UsedLibrary="C:/Tools/Eagle/lbr/Xilinx.lbr"
+UsedLibrary="C:/Tools/Eagle/lbr/altera.lbr"
+UsedLibrary="C:/Tools/Eagle/lbr/analog-devices.lbr"
+UsedLibrary="C:/Tools/Eagle/lbr/will.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.4.0/lbr/transistor-fet.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="652 321 1251 720"
+State=2
+Number=0
+
+[Desktop]
+Screen="3360 1080"
+Window="Win_1"
